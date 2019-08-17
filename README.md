@@ -2,4 +2,4 @@
 
 __Details available at https://rotorgarage.com/frames/#moonshot__
 
-<img style="" src="/assets/fh1.png"/>
+<img style="" src="/assets/funhog.png"/>
